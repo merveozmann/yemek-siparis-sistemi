@@ -1,0 +1,20 @@
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\RestoranModülü\RestoranModülü\bin\Debug\RestoranModülü.exe.config
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\RestoranModülü\RestoranModülü\bin\Debug\RestoranModülü.exe
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\RestoranModülü\RestoranModülü\bin\Debug\RestoranModülü.pdb
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\RestoranModülü\RestoranModülü\obj\Debug\RestoranModülü.csprojResolveAssemblyReference.cache
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\RestoranModülü\RestoranModülü\obj\Debug\RestoranModülü.Form1.resources
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\RestoranModülü\RestoranModülü\obj\Debug\RestoranModülü.Form2.resources
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\RestoranModülü\RestoranModülü\obj\Debug\RestoranModülü.Properties.Resources.resources
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\RestoranModülü\RestoranModülü\obj\Debug\RestoranModülü.csproj.GenerateResource.Cache
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\RestoranModülü\RestoranModülü\obj\Debug\RestoranModülü.exe
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\RestoranModülü\RestoranModülü\obj\Debug\RestoranModülü.pdb
+C:\Users\MERVE\Desktop\C#DERSİ\Yemek Sepeti\RestoranModülü\RestoranModülü\bin\Debug\RestoranModülü.exe.config
+C:\Users\MERVE\Desktop\C#DERSİ\Yemek Sepeti\RestoranModülü\RestoranModülü\bin\Debug\RestoranModülü.exe
+C:\Users\MERVE\Desktop\C#DERSİ\Yemek Sepeti\RestoranModülü\RestoranModülü\bin\Debug\RestoranModülü.pdb
+C:\Users\MERVE\Desktop\C#DERSİ\Yemek Sepeti\RestoranModülü\RestoranModülü\obj\Debug\RestoranModülü.csprojResolveAssemblyReference.cache
+C:\Users\MERVE\Desktop\C#DERSİ\Yemek Sepeti\RestoranModülü\RestoranModülü\obj\Debug\RestoranModülü.Form1.resources
+C:\Users\MERVE\Desktop\C#DERSİ\Yemek Sepeti\RestoranModülü\RestoranModülü\obj\Debug\RestoranModülü.Form2.resources
+C:\Users\MERVE\Desktop\C#DERSİ\Yemek Sepeti\RestoranModülü\RestoranModülü\obj\Debug\RestoranModülü.Properties.Resources.resources
+C:\Users\MERVE\Desktop\C#DERSİ\Yemek Sepeti\RestoranModülü\RestoranModülü\obj\Debug\RestoranModülü.csproj.GenerateResource.Cache
+C:\Users\MERVE\Desktop\C#DERSİ\Yemek Sepeti\RestoranModülü\RestoranModülü\obj\Debug\RestoranModülü.exe
+C:\Users\MERVE\Desktop\C#DERSİ\Yemek Sepeti\RestoranModülü\RestoranModülü\obj\Debug\RestoranModülü.pdb

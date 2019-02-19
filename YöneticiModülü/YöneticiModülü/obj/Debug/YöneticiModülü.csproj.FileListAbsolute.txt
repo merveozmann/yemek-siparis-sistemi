@@ -1,0 +1,13 @@
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\YöneticiModülü\YöneticiModülü\bin\Debug\YöneticiModülü.exe.config
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\YöneticiModülü\YöneticiModülü\bin\Debug\YöneticiModülü.exe
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\YöneticiModülü\YöneticiModülü\bin\Debug\YöneticiModülü.pdb
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\YöneticiModülü\YöneticiModülü\obj\Debug\YöneticiModülü.csprojResolveAssemblyReference.cache
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\YöneticiModülü\YöneticiModülü\obj\Debug\YöneticiModülü.Form1.resources
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\YöneticiModülü\YöneticiModülü\obj\Debug\YöneticiModülü.Form2.resources
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\YöneticiModülü\YöneticiModülü\obj\Debug\YöneticiModülü.Properties.Resources.resources
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\YöneticiModülü\YöneticiModülü\obj\Debug\YöneticiModülü.csproj.GenerateResource.Cache
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\YöneticiModülü\YöneticiModülü\obj\Debug\YöneticiModülü.exe
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\YöneticiModülü\YöneticiModülü\obj\Debug\YöneticiModülü.pdb
+C:\Users\MERVE\Desktop\C#DERSİ\Yemek Sepeti\YöneticiModülü\YöneticiModülü\bin\Debug\YöneticiModülü.exe.config
+C:\Users\MERVE\Desktop\C#DERSİ\Yemek Sepeti\YöneticiModülü\YöneticiModülü\obj\Debug\YöneticiModülü.exe
+C:\Users\MERVE\Desktop\C#DERSİ\Yemek Sepeti\YöneticiModülü\YöneticiModülü\obj\Debug\YöneticiModülü.pdb

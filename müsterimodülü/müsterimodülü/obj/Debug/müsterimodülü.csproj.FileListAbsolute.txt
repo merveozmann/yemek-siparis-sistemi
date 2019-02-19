@@ -1,0 +1,11 @@
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\müsterimodülü\müsterimodülü\bin\müsterimodülü.dll
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\müsterimodülü\müsterimodülü\bin\müsterimodülü.pdb
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\müsterimodülü\müsterimodülü\obj\Debug\müsterimodülü.csprojResolveAssemblyReference.cache
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\müsterimodülü\müsterimodülü\obj\Debug\müsterimodülü.dll
+C:\Users\Merve Özman\Desktop\Yemek Sepeti\müsterimodülü\müsterimodülü\obj\Debug\müsterimodülü.pdb
+C:\Users\MERVE\Desktop\1.SINIF\C#DERSİ\Yemek Sepeti\müsterimodülü\müsterimodülü\bin\müsterimodülü.dll.config
+C:\Users\MERVE\Desktop\1.SINIF\C#DERSİ\Yemek Sepeti\müsterimodülü\müsterimodülü\bin\müsterimodülü.dll
+C:\Users\MERVE\Desktop\1.SINIF\C#DERSİ\Yemek Sepeti\müsterimodülü\müsterimodülü\bin\müsterimodülü.pdb
+C:\Users\MERVE\Desktop\1.SINIF\C#DERSİ\Yemek Sepeti\müsterimodülü\müsterimodülü\obj\Debug\müsterimodülü.csprojResolveAssemblyReference.cache
+C:\Users\MERVE\Desktop\1.SINIF\C#DERSİ\Yemek Sepeti\müsterimodülü\müsterimodülü\obj\Debug\müsterimodülü.dll
+C:\Users\MERVE\Desktop\1.SINIF\C#DERSİ\Yemek Sepeti\müsterimodülü\müsterimodülü\obj\Debug\müsterimodülü.pdb
